@@ -1,0 +1,31 @@
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target _rosflight_msgs_generate_messages_check_deps_RCRaw
+[  0%] Built target _rosflight_msgs_generate_messages_check_deps_ParamFile
+[  0%] Built target _rosflight_msgs_generate_messages_check_deps_OutputRaw
+[  0%] Built target _rosflight_msgs_generate_messages_check_deps_Command
+[  0%] Built target _rosflight_msgs_generate_messages_check_deps_Airspeed
+[  0%] Built target _rosflight_msgs_generate_messages_check_deps_Barometer
+[  0%] Built target _rosflight_msgs_generate_messages_check_deps_Status
+[  0%] Built target _rosflight_msgs_generate_messages_check_deps_GNSS
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target _rosflight_msgs_generate_messages_check_deps_BatteryStatus
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target _rosflight_msgs_generate_messages_check_deps_GNSSFull
+[  0%] Built target _rosflight_msgs_generate_messages_check_deps_Attitude
+[  0%] Built target _rosflight_msgs_generate_messages_check_deps_ParamGet
+[  0%] Built target _rosflight_msgs_generate_messages_check_deps_AuxCommand
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target _rosflight_msgs_generate_messages_check_deps_Error
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target _rosflight_msgs_generate_messages_check_deps_ParamSet
+[ 39%] Built target rosflight_msgs_generate_messages_lisp
+[ 41%] Built target rosflight_msgs_generate_messages_py
+[ 60%] Built target rosflight_msgs_generate_messages_nodejs
+[ 80%] Built target rosflight_msgs_generate_messages_eus
+[100%] Built target rosflight_msgs_generate_messages_cpp
+[100%] Built target rosflight_msgs_generate_messages

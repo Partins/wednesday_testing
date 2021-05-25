@@ -1,0 +1,29 @@
+Symlinking /home/martin/first_ws/devel/include/martin_mpc/mpcsrvRequest.h
+Symlinking /home/martin/first_ws/devel/include/martin_mpc/mpcsrv.h
+Symlinking /home/martin/first_ws/devel/include/martin_mpc/mpcsrvResponse.h
+Symlinking /home/martin/first_ws/devel/lib/pkgconfig/martin_mpc.pc
+Symlinking /home/martin/first_ws/devel/lib/python3/dist-packages/martin_mpc/__init__.py
+Symlinking /home/martin/first_ws/devel/lib/python3/dist-packages/martin_mpc/srv/__init__.py
+Symlinking /home/martin/first_ws/devel/lib/python3/dist-packages/martin_mpc/srv/_mpcsrv.py
+Symlinking /home/martin/first_ws/devel/share/common-lisp/ros/martin_mpc/srv/_package_mpcsrv.lisp
+Symlinking /home/martin/first_ws/devel/share/common-lisp/ros/martin_mpc/srv/martin_mpc-srv.asd
+Symlinking /home/martin/first_ws/devel/share/common-lisp/ros/martin_mpc/srv/mpcsrv.lisp
+Symlinking /home/martin/first_ws/devel/share/common-lisp/ros/martin_mpc/srv/_package.lisp
+Symlinking /home/martin/first_ws/devel/share/roseus/ros/martin_mpc/manifest.l
+Symlinking /home/martin/first_ws/devel/share/roseus/ros/martin_mpc/srv/mpcsrv.l
+Symlinking /home/martin/first_ws/devel/share/gennodejs/ros/martin_mpc/_index.js
+Symlinking /home/martin/first_ws/devel/share/gennodejs/ros/martin_mpc/srv/mpcsrv.js
+Symlinking /home/martin/first_ws/devel/share/gennodejs/ros/martin_mpc/srv/_index.js
+Symlinking /home/martin/first_ws/devel/share/martin_mpc/cmake/martin_mpcConfig-version.cmake
+Symlinking /home/martin/first_ws/devel/share/martin_mpc/cmake/martin_mpcConfig.cmake
+Symlinking /home/martin/first_ws/devel/share/martin_mpc/cmake/martin_mpc-msg-extras.cmake
+Symlinking /home/martin/first_ws/devel/share/martin_mpc/cmake/martin_mpc-msg-paths.cmake
+Cleaning: (/home/martin/first_ws/devel/.private/martin_mpc/lib/python2.7/dist-packages/martin_mpc/__init__.py, /home/martin/first_ws/devel/lib/python2.7/dist-packages/martin_mpc/__init__.py)
+Cleaning: (/home/martin/first_ws/devel/.private/martin_mpc/lib/python2.7/dist-packages/martin_mpc/srv/__init__.py, /home/martin/first_ws/devel/lib/python2.7/dist-packages/martin_mpc/srv/__init__.py)
+Cleaning: (/home/martin/first_ws/devel/.private/martin_mpc/lib/python2.7/dist-packages/martin_mpc/srv/_mpcsrv.py, /home/martin/first_ws/devel/lib/python2.7/dist-packages/martin_mpc/srv/_mpcsrv.py)
+Unlinking: /home/martin/first_ws/devel/lib/python2.7/dist-packages/martin_mpc/__init__.py
+Already unlinked: {}
+Unlinking: /home/martin/first_ws/devel/lib/python2.7/dist-packages/martin_mpc/srv/__init__.py
+Already unlinked: {}
+Unlinking: /home/martin/first_ws/devel/lib/python2.7/dist-packages/martin_mpc/srv/_mpcsrv.py
+Already unlinked: {}

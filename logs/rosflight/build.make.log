@@ -1,0 +1,130 @@
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_nodejs[0m
+[  0%] Built target tf2_msgs_generate_messages_py
+[  0%] Built target tf2_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_py[0m
+[  0%] Built target actionlib_msgs_generate_messages_py
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_eus[0m
+[  0%] Built target tf2_msgs_generate_messages_eus
+[  0%] Built target actionlib_msgs_generate_messages_lisp
+[  0%] Built target tf2_msgs_generate_messages_cpp
+[  0%] Built target tf2_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target tf_generate_messages_py[0m
+[  0%] Built target actionlib_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target actionlib_generate_messages_py[0m
+[  0%] Built target tf_generate_messages_py
+[  0%] Built target actionlib_generate_messages_py
+[35m[1mScanning dependencies of target rosflight_msgs_generate_messages_cpp[0m
+[  0%] Built target rosflight_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp[0m
+[  0%] Built target sensor_msgs_generate_messages_py
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_eus[0m
+[  0%] Built target sensor_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target rosflight_msgs_generate_messages_py[0m
+[  0%] Built target std_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
+[  0%] Built target rosflight_msgs_generate_messages_py
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_py[0m
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[35m[1mScanning dependencies of target rosflight_msgs_generate_messages_eus[0m
+[  0%] Built target rosflight_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target rosflight_msgs_generate_messages_lisp[0m
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[  0%] Built target rosflight_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target rosflight_msgs_generate_messages_nodejs[0m
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target rosflight_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_srvs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_cpp[0m
+[  0%] Built target std_srvs_generate_messages_eus
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target actionlib_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target actionlib_generate_messages_eus[0m
+[  0%] Built target roscpp_generate_messages_cpp
+[  0%] Built target actionlib_generate_messages_cpp
+[35m[1mScanning dependencies of target actionlib_generate_messages_nodejs[0m
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target tf_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target tf_generate_messages_eus[0m
+[  0%] Built target actionlib_generate_messages_eus
+[35m[1mScanning dependencies of target tf_generate_messages_lisp[0m
+[  0%] Built target actionlib_generate_messages_nodejs
+[35m[1mScanning dependencies of target tf_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target std_srvs_generate_messages_nodejs[0m
+[  0%] Built target tf_generate_messages_eus
+[35m[1mScanning dependencies of target actionlib_generate_messages_lisp[0m
+[  0%] Built target tf_generate_messages_lisp
+[  0%] Built target tf_generate_messages_cpp
+[  0%] Built target std_srvs_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_srvs_generate_messages_py[0m
+[  0%] Built target tf_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_srvs_generate_messages_lisp[0m
+[  0%] Built target std_srvs_generate_messages_py
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_eus[0m
+[  0%] Built target actionlib_generate_messages_lisp
+[  0%] Built target std_srvs_generate_messages_lisp
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_cpp[0m
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target std_srvs_generate_messages_cpp[0m
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target actionlib_msgs_generate_messages_cpp
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target roscpp_generate_messages_py[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[  0%] Built target std_srvs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target roscpp_generate_messages_nodejs
+[  0%] Built target geometry_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target roscpp_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_nodejs[0m
+[  0%] Built target roscpp_generate_messages_py
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_eus[0m
+[  0%] Built target actionlib_msgs_generate_messages_nodejs
+[  0%] Built target roscpp_generate_messages_eus
+[  0%] Built target roscpp_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target calibrate_mag[0m
+[35m[1mScanning dependencies of target mavrosflight[0m
+[  7%] [32mBuilding CXX object CMakeFiles/mavrosflight.dir/src/mavrosflight/param_manager.cpp.o[0m
+[ 14%] [32mBuilding CXX object CMakeFiles/mavrosflight.dir/src/mavrosflight/mavlink_serial.cpp.o[0m
+[ 21%] [32mBuilding CXX object CMakeFiles/mavrosflight.dir/src/mavrosflight/time_manager.cpp.o[0m
+[ 28%] [32mBuilding CXX object CMakeFiles/mavrosflight.dir/src/mavrosflight/mavlink_comm.cpp.o[0m
+[ 35%] [32mBuilding CXX object CMakeFiles/mavrosflight.dir/src/mavrosflight/mavlink_udp.cpp.o[0m
+[ 42%] [32mBuilding CXX object CMakeFiles/mavrosflight.dir/src/mavrosflight/param.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/mavrosflight.dir/src/mavrosflight/mavrosflight.cpp.o[0m
+[ 57%] [32mBuilding CXX object CMakeFiles/calibrate_mag.dir/src/mag_cal_node.cpp.o[0m
+[ 64%] [32mBuilding CXX object CMakeFiles/calibrate_mag.dir/src/mag_cal.cpp.o[0m
+[ 71%] [32m[1mLinking CXX shared library /home/martin/first_ws/devel/.private/rosflight/lib/libmavrosflight.so[0m
+[ 71%] Built target mavrosflight
+[35m[1mScanning dependencies of target rosflight_io[0m
+[ 78%] [32mBuilding CXX object CMakeFiles/rosflight_io.dir/src/rosflight_io.cpp.o[0m
+[ 85%] [32mBuilding CXX object CMakeFiles/rosflight_io.dir/src/rosflight_io_node.cpp.o[0m
+[ 92%] [32m[1mLinking CXX executable /home/martin/first_ws/devel/.private/rosflight/lib/rosflight/rosflight_io[0m
+[100%] [32m[1mLinking CXX executable /home/martin/first_ws/devel/.private/rosflight/lib/rosflight/calibrate_mag[0m
+[100%] Built target calibrate_mag
+[100%] Built target rosflight_io

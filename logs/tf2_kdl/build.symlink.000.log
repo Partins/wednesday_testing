@@ -1,0 +1,4 @@
+Symlinking /home/martin/first_ws/devel/lib/pkgconfig/tf2_kdl.pc
+Symlinking /home/martin/first_ws/devel/lib/python3/dist-packages/tf2_kdl/__init__.py
+Symlinking /home/martin/first_ws/devel/share/tf2_kdl/cmake/tf2_kdlConfig-version.cmake
+Symlinking /home/martin/first_ws/devel/share/tf2_kdl/cmake/tf2_kdlConfig.cmake

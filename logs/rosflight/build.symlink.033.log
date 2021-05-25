@@ -1,0 +1,6 @@
+Symlinking /home/martin/first_ws/devel/lib/libmavrosflight.so
+Symlinking /home/martin/first_ws/devel/lib/rosflight/rosflight_io
+Symlinking /home/martin/first_ws/devel/lib/rosflight/calibrate_mag
+Symlinking /home/martin/first_ws/devel/lib/pkgconfig/rosflight.pc
+Symlinking /home/martin/first_ws/devel/share/rosflight/cmake/rosflightConfig.cmake
+Symlinking /home/martin/first_ws/devel/share/rosflight/cmake/rosflightConfig-version.cmake

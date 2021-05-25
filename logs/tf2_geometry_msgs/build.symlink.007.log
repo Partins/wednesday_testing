@@ -1,0 +1,4 @@
+Symlinking /home/martin/first_ws/devel/lib/pkgconfig/tf2_geometry_msgs.pc
+Symlinking /home/martin/first_ws/devel/lib/python3/dist-packages/tf2_geometry_msgs/__init__.py
+Symlinking /home/martin/first_ws/devel/share/tf2_geometry_msgs/cmake/tf2_geometry_msgsConfig.cmake
+Symlinking /home/martin/first_ws/devel/share/tf2_geometry_msgs/cmake/tf2_geometry_msgsConfig-version.cmake

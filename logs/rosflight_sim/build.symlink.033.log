@@ -1,0 +1,4 @@
+Symlinking /home/martin/first_ws/devel/lib/librosflight_sil_plugin.so
+Symlinking /home/martin/first_ws/devel/lib/pkgconfig/rosflight_sim.pc
+Symlinking /home/martin/first_ws/devel/share/rosflight_sim/cmake/rosflight_simConfig.cmake
+Symlinking /home/martin/first_ws/devel/share/rosflight_sim/cmake/rosflight_simConfig-version.cmake

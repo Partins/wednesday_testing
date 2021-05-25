@@ -1,0 +1,166 @@
+Symlinking /home/martin/first_ws/devel/include/rosflight_msgs/ParamSet.h
+Symlinking /home/martin/first_ws/devel/include/rosflight_msgs/AuxCommand.h
+Symlinking /home/martin/first_ws/devel/include/rosflight_msgs/ParamFileRequest.h
+Symlinking /home/martin/first_ws/devel/include/rosflight_msgs/ParamGetRequest.h
+Symlinking /home/martin/first_ws/devel/include/rosflight_msgs/OutputRaw.h
+Symlinking /home/martin/first_ws/devel/include/rosflight_msgs/Attitude.h
+Symlinking /home/martin/first_ws/devel/include/rosflight_msgs/BatteryStatus.h
+Symlinking /home/martin/first_ws/devel/include/rosflight_msgs/ParamFileResponse.h
+Symlinking /home/martin/first_ws/devel/include/rosflight_msgs/GNSSFull.h
+Symlinking /home/martin/first_ws/devel/include/rosflight_msgs/Barometer.h
+Symlinking /home/martin/first_ws/devel/include/rosflight_msgs/ParamFile.h
+Symlinking /home/martin/first_ws/devel/include/rosflight_msgs/Command.h
+Symlinking /home/martin/first_ws/devel/include/rosflight_msgs/Airspeed.h
+Symlinking /home/martin/first_ws/devel/include/rosflight_msgs/Error.h
+Symlinking /home/martin/first_ws/devel/include/rosflight_msgs/ParamGet.h
+Symlinking /home/martin/first_ws/devel/include/rosflight_msgs/Status.h
+Symlinking /home/martin/first_ws/devel/include/rosflight_msgs/ParamSetResponse.h
+Symlinking /home/martin/first_ws/devel/include/rosflight_msgs/RCRaw.h
+Symlinking /home/martin/first_ws/devel/include/rosflight_msgs/ParamGetResponse.h
+Symlinking /home/martin/first_ws/devel/include/rosflight_msgs/ParamSetRequest.h
+Symlinking /home/martin/first_ws/devel/include/rosflight_msgs/GNSS.h
+Symlinking /home/martin/first_ws/devel/lib/pkgconfig/rosflight_msgs.pc
+Symlinking /home/martin/first_ws/devel/lib/python3/dist-packages/rosflight_msgs/__init__.py
+Symlinking /home/martin/first_ws/devel/lib/python3/dist-packages/rosflight_msgs/srv/_ParamFile.py
+Symlinking /home/martin/first_ws/devel/lib/python3/dist-packages/rosflight_msgs/srv/__init__.py
+Symlinking /home/martin/first_ws/devel/lib/python3/dist-packages/rosflight_msgs/srv/_ParamGet.py
+Symlinking /home/martin/first_ws/devel/lib/python3/dist-packages/rosflight_msgs/srv/_ParamSet.py
+Symlinking /home/martin/first_ws/devel/lib/python3/dist-packages/rosflight_msgs/msg/_Status.py
+Symlinking /home/martin/first_ws/devel/lib/python3/dist-packages/rosflight_msgs/msg/_Attitude.py
+Symlinking /home/martin/first_ws/devel/lib/python3/dist-packages/rosflight_msgs/msg/_Airspeed.py
+Symlinking /home/martin/first_ws/devel/lib/python3/dist-packages/rosflight_msgs/msg/_RCRaw.py
+Symlinking /home/martin/first_ws/devel/lib/python3/dist-packages/rosflight_msgs/msg/_AuxCommand.py
+Symlinking /home/martin/first_ws/devel/lib/python3/dist-packages/rosflight_msgs/msg/__init__.py
+Symlinking /home/martin/first_ws/devel/lib/python3/dist-packages/rosflight_msgs/msg/_GNSSFull.py
+Symlinking /home/martin/first_ws/devel/lib/python3/dist-packages/rosflight_msgs/msg/_GNSS.py
+Symlinking /home/martin/first_ws/devel/lib/python3/dist-packages/rosflight_msgs/msg/_Error.py
+Symlinking /home/martin/first_ws/devel/lib/python3/dist-packages/rosflight_msgs/msg/_Barometer.py
+Symlinking /home/martin/first_ws/devel/lib/python3/dist-packages/rosflight_msgs/msg/_Command.py
+Symlinking /home/martin/first_ws/devel/lib/python3/dist-packages/rosflight_msgs/msg/_BatteryStatus.py
+Symlinking /home/martin/first_ws/devel/lib/python3/dist-packages/rosflight_msgs/msg/_OutputRaw.py
+Symlinking /home/martin/first_ws/devel/share/common-lisp/ros/rosflight_msgs/srv/_package_ParamSet.lisp
+Symlinking /home/martin/first_ws/devel/share/common-lisp/ros/rosflight_msgs/srv/ParamSet.lisp
+Symlinking /home/martin/first_ws/devel/share/common-lisp/ros/rosflight_msgs/srv/rosflight_msgs-srv.asd
+Symlinking /home/martin/first_ws/devel/share/common-lisp/ros/rosflight_msgs/srv/ParamFile.lisp
+Symlinking /home/martin/first_ws/devel/share/common-lisp/ros/rosflight_msgs/srv/_package.lisp
+Symlinking /home/martin/first_ws/devel/share/common-lisp/ros/rosflight_msgs/srv/ParamGet.lisp
+Symlinking /home/martin/first_ws/devel/share/common-lisp/ros/rosflight_msgs/srv/_package_ParamFile.lisp
+Symlinking /home/martin/first_ws/devel/share/common-lisp/ros/rosflight_msgs/srv/_package_ParamGet.lisp
+Symlinking /home/martin/first_ws/devel/share/common-lisp/ros/rosflight_msgs/msg/rosflight_msgs-msg.asd
+Symlinking /home/martin/first_ws/devel/share/common-lisp/ros/rosflight_msgs/msg/GNSSFull.lisp
+Symlinking /home/martin/first_ws/devel/share/common-lisp/ros/rosflight_msgs/msg/RCRaw.lisp
+Symlinking /home/martin/first_ws/devel/share/common-lisp/ros/rosflight_msgs/msg/_package_RCRaw.lisp
+Symlinking /home/martin/first_ws/devel/share/common-lisp/ros/rosflight_msgs/msg/_package_Attitude.lisp
+Symlinking /home/martin/first_ws/devel/share/common-lisp/ros/rosflight_msgs/msg/_package_BatteryStatus.lisp
+Symlinking /home/martin/first_ws/devel/share/common-lisp/ros/rosflight_msgs/msg/GNSS.lisp
+Symlinking /home/martin/first_ws/devel/share/common-lisp/ros/rosflight_msgs/msg/Status.lisp
+Symlinking /home/martin/first_ws/devel/share/common-lisp/ros/rosflight_msgs/msg/_package_Status.lisp
+Symlinking /home/martin/first_ws/devel/share/common-lisp/ros/rosflight_msgs/msg/_package_GNSS.lisp
+Symlinking /home/martin/first_ws/devel/share/common-lisp/ros/rosflight_msgs/msg/_package_GNSSFull.lisp
+Symlinking /home/martin/first_ws/devel/share/common-lisp/ros/rosflight_msgs/msg/_package_OutputRaw.lisp
+Symlinking /home/martin/first_ws/devel/share/common-lisp/ros/rosflight_msgs/msg/_package_Error.lisp
+Symlinking /home/martin/first_ws/devel/share/common-lisp/ros/rosflight_msgs/msg/_package_AuxCommand.lisp
+Symlinking /home/martin/first_ws/devel/share/common-lisp/ros/rosflight_msgs/msg/BatteryStatus.lisp
+Symlinking /home/martin/first_ws/devel/share/common-lisp/ros/rosflight_msgs/msg/Command.lisp
+Symlinking /home/martin/first_ws/devel/share/common-lisp/ros/rosflight_msgs/msg/_package.lisp
+Symlinking /home/martin/first_ws/devel/share/common-lisp/ros/rosflight_msgs/msg/Barometer.lisp
+Symlinking /home/martin/first_ws/devel/share/common-lisp/ros/rosflight_msgs/msg/Attitude.lisp
+Symlinking /home/martin/first_ws/devel/share/common-lisp/ros/rosflight_msgs/msg/Error.lisp
+Symlinking /home/martin/first_ws/devel/share/common-lisp/ros/rosflight_msgs/msg/_package_Barometer.lisp
+Symlinking /home/martin/first_ws/devel/share/common-lisp/ros/rosflight_msgs/msg/_package_Airspeed.lisp
+Symlinking /home/martin/first_ws/devel/share/common-lisp/ros/rosflight_msgs/msg/OutputRaw.lisp
+Symlinking /home/martin/first_ws/devel/share/common-lisp/ros/rosflight_msgs/msg/_package_Command.lisp
+Symlinking /home/martin/first_ws/devel/share/common-lisp/ros/rosflight_msgs/msg/Airspeed.lisp
+Symlinking /home/martin/first_ws/devel/share/common-lisp/ros/rosflight_msgs/msg/AuxCommand.lisp
+Symlinking /home/martin/first_ws/devel/share/roseus/ros/rosflight_msgs/manifest.l
+Symlinking /home/martin/first_ws/devel/share/roseus/ros/rosflight_msgs/srv/ParamSet.l
+Symlinking /home/martin/first_ws/devel/share/roseus/ros/rosflight_msgs/srv/ParamFile.l
+Symlinking /home/martin/first_ws/devel/share/roseus/ros/rosflight_msgs/srv/ParamGet.l
+Symlinking /home/martin/first_ws/devel/share/roseus/ros/rosflight_msgs/msg/GNSSFull.l
+Symlinking /home/martin/first_ws/devel/share/roseus/ros/rosflight_msgs/msg/Command.l
+Symlinking /home/martin/first_ws/devel/share/roseus/ros/rosflight_msgs/msg/Attitude.l
+Symlinking /home/martin/first_ws/devel/share/roseus/ros/rosflight_msgs/msg/GNSS.l
+Symlinking /home/martin/first_ws/devel/share/roseus/ros/rosflight_msgs/msg/AuxCommand.l
+Symlinking /home/martin/first_ws/devel/share/roseus/ros/rosflight_msgs/msg/RCRaw.l
+Symlinking /home/martin/first_ws/devel/share/roseus/ros/rosflight_msgs/msg/Error.l
+Symlinking /home/martin/first_ws/devel/share/roseus/ros/rosflight_msgs/msg/BatteryStatus.l
+Symlinking /home/martin/first_ws/devel/share/roseus/ros/rosflight_msgs/msg/Airspeed.l
+Symlinking /home/martin/first_ws/devel/share/roseus/ros/rosflight_msgs/msg/Barometer.l
+Symlinking /home/martin/first_ws/devel/share/roseus/ros/rosflight_msgs/msg/OutputRaw.l
+Symlinking /home/martin/first_ws/devel/share/roseus/ros/rosflight_msgs/msg/Status.l
+Symlinking /home/martin/first_ws/devel/share/rosflight_msgs/cmake/rosflight_msgsConfig-version.cmake
+Symlinking /home/martin/first_ws/devel/share/rosflight_msgs/cmake/rosflight_msgsConfig.cmake
+Symlinking /home/martin/first_ws/devel/share/rosflight_msgs/cmake/rosflight_msgs-msg-extras.cmake
+Symlinking /home/martin/first_ws/devel/share/rosflight_msgs/cmake/rosflight_msgs-msg-paths.cmake
+Symlinking /home/martin/first_ws/devel/share/gennodejs/ros/rosflight_msgs/_index.js
+Symlinking /home/martin/first_ws/devel/share/gennodejs/ros/rosflight_msgs/srv/_index.js
+Symlinking /home/martin/first_ws/devel/share/gennodejs/ros/rosflight_msgs/srv/ParamGet.js
+Symlinking /home/martin/first_ws/devel/share/gennodejs/ros/rosflight_msgs/srv/ParamFile.js
+Symlinking /home/martin/first_ws/devel/share/gennodejs/ros/rosflight_msgs/srv/ParamSet.js
+Symlinking /home/martin/first_ws/devel/share/gennodejs/ros/rosflight_msgs/msg/GNSSFull.js
+Symlinking /home/martin/first_ws/devel/share/gennodejs/ros/rosflight_msgs/msg/Attitude.js
+Symlinking /home/martin/first_ws/devel/share/gennodejs/ros/rosflight_msgs/msg/RCRaw.js
+Symlinking /home/martin/first_ws/devel/share/gennodejs/ros/rosflight_msgs/msg/Barometer.js
+Symlinking /home/martin/first_ws/devel/share/gennodejs/ros/rosflight_msgs/msg/AuxCommand.js
+Symlinking /home/martin/first_ws/devel/share/gennodejs/ros/rosflight_msgs/msg/Status.js
+Symlinking /home/martin/first_ws/devel/share/gennodejs/ros/rosflight_msgs/msg/GNSS.js
+Symlinking /home/martin/first_ws/devel/share/gennodejs/ros/rosflight_msgs/msg/OutputRaw.js
+Symlinking /home/martin/first_ws/devel/share/gennodejs/ros/rosflight_msgs/msg/Command.js
+Symlinking /home/martin/first_ws/devel/share/gennodejs/ros/rosflight_msgs/msg/_index.js
+Symlinking /home/martin/first_ws/devel/share/gennodejs/ros/rosflight_msgs/msg/Airspeed.js
+Symlinking /home/martin/first_ws/devel/share/gennodejs/ros/rosflight_msgs/msg/BatteryStatus.js
+Symlinking /home/martin/first_ws/devel/share/gennodejs/ros/rosflight_msgs/msg/Error.js
+Cleaning: (/home/martin/first_ws/devel/.private/rosflight_msgs/lib/python2.7/dist-packages/rosflight_msgs/__init__.py, /home/martin/first_ws/devel/lib/python2.7/dist-packages/rosflight_msgs/__init__.py)
+Cleaning: (/home/martin/first_ws/devel/.private/rosflight_msgs/lib/python2.7/dist-packages/rosflight_msgs/srv/_ParamFile.py, /home/martin/first_ws/devel/lib/python2.7/dist-packages/rosflight_msgs/srv/_ParamFile.py)
+Cleaning: (/home/martin/first_ws/devel/.private/rosflight_msgs/lib/python2.7/dist-packages/rosflight_msgs/srv/__init__.py, /home/martin/first_ws/devel/lib/python2.7/dist-packages/rosflight_msgs/srv/__init__.py)
+Cleaning: (/home/martin/first_ws/devel/.private/rosflight_msgs/lib/python2.7/dist-packages/rosflight_msgs/srv/_ParamGet.py, /home/martin/first_ws/devel/lib/python2.7/dist-packages/rosflight_msgs/srv/_ParamGet.py)
+Cleaning: (/home/martin/first_ws/devel/.private/rosflight_msgs/lib/python2.7/dist-packages/rosflight_msgs/srv/_ParamSet.py, /home/martin/first_ws/devel/lib/python2.7/dist-packages/rosflight_msgs/srv/_ParamSet.py)
+Cleaning: (/home/martin/first_ws/devel/.private/rosflight_msgs/lib/python2.7/dist-packages/rosflight_msgs/msg/_Status.py, /home/martin/first_ws/devel/lib/python2.7/dist-packages/rosflight_msgs/msg/_Status.py)
+Cleaning: (/home/martin/first_ws/devel/.private/rosflight_msgs/lib/python2.7/dist-packages/rosflight_msgs/msg/_Attitude.py, /home/martin/first_ws/devel/lib/python2.7/dist-packages/rosflight_msgs/msg/_Attitude.py)
+Cleaning: (/home/martin/first_ws/devel/.private/rosflight_msgs/lib/python2.7/dist-packages/rosflight_msgs/msg/_Airspeed.py, /home/martin/first_ws/devel/lib/python2.7/dist-packages/rosflight_msgs/msg/_Airspeed.py)
+Cleaning: (/home/martin/first_ws/devel/.private/rosflight_msgs/lib/python2.7/dist-packages/rosflight_msgs/msg/_RCRaw.py, /home/martin/first_ws/devel/lib/python2.7/dist-packages/rosflight_msgs/msg/_RCRaw.py)
+Cleaning: (/home/martin/first_ws/devel/.private/rosflight_msgs/lib/python2.7/dist-packages/rosflight_msgs/msg/_AuxCommand.py, /home/martin/first_ws/devel/lib/python2.7/dist-packages/rosflight_msgs/msg/_AuxCommand.py)
+Cleaning: (/home/martin/first_ws/devel/.private/rosflight_msgs/lib/python2.7/dist-packages/rosflight_msgs/msg/__init__.py, /home/martin/first_ws/devel/lib/python2.7/dist-packages/rosflight_msgs/msg/__init__.py)
+Cleaning: (/home/martin/first_ws/devel/.private/rosflight_msgs/lib/python2.7/dist-packages/rosflight_msgs/msg/_GNSSFull.py, /home/martin/first_ws/devel/lib/python2.7/dist-packages/rosflight_msgs/msg/_GNSSFull.py)
+Cleaning: (/home/martin/first_ws/devel/.private/rosflight_msgs/lib/python2.7/dist-packages/rosflight_msgs/msg/_GNSS.py, /home/martin/first_ws/devel/lib/python2.7/dist-packages/rosflight_msgs/msg/_GNSS.py)
+Cleaning: (/home/martin/first_ws/devel/.private/rosflight_msgs/lib/python2.7/dist-packages/rosflight_msgs/msg/_Error.py, /home/martin/first_ws/devel/lib/python2.7/dist-packages/rosflight_msgs/msg/_Error.py)
+Cleaning: (/home/martin/first_ws/devel/.private/rosflight_msgs/lib/python2.7/dist-packages/rosflight_msgs/msg/_Barometer.py, /home/martin/first_ws/devel/lib/python2.7/dist-packages/rosflight_msgs/msg/_Barometer.py)
+Cleaning: (/home/martin/first_ws/devel/.private/rosflight_msgs/lib/python2.7/dist-packages/rosflight_msgs/msg/_Command.py, /home/martin/first_ws/devel/lib/python2.7/dist-packages/rosflight_msgs/msg/_Command.py)
+Cleaning: (/home/martin/first_ws/devel/.private/rosflight_msgs/lib/python2.7/dist-packages/rosflight_msgs/msg/_BatteryStatus.py, /home/martin/first_ws/devel/lib/python2.7/dist-packages/rosflight_msgs/msg/_BatteryStatus.py)
+Cleaning: (/home/martin/first_ws/devel/.private/rosflight_msgs/lib/python2.7/dist-packages/rosflight_msgs/msg/_OutputRaw.py, /home/martin/first_ws/devel/lib/python2.7/dist-packages/rosflight_msgs/msg/_OutputRaw.py)
+Unlinking: /home/martin/first_ws/devel/lib/python2.7/dist-packages/rosflight_msgs/__init__.py
+Already unlinked: {}
+Unlinking: /home/martin/first_ws/devel/lib/python2.7/dist-packages/rosflight_msgs/srv/_ParamFile.py
+Already unlinked: {}
+Unlinking: /home/martin/first_ws/devel/lib/python2.7/dist-packages/rosflight_msgs/srv/__init__.py
+Already unlinked: {}
+Unlinking: /home/martin/first_ws/devel/lib/python2.7/dist-packages/rosflight_msgs/srv/_ParamGet.py
+Already unlinked: {}
+Unlinking: /home/martin/first_ws/devel/lib/python2.7/dist-packages/rosflight_msgs/srv/_ParamSet.py
+Already unlinked: {}
+Unlinking: /home/martin/first_ws/devel/lib/python2.7/dist-packages/rosflight_msgs/msg/_Status.py
+Already unlinked: {}
+Unlinking: /home/martin/first_ws/devel/lib/python2.7/dist-packages/rosflight_msgs/msg/_Attitude.py
+Already unlinked: {}
+Unlinking: /home/martin/first_ws/devel/lib/python2.7/dist-packages/rosflight_msgs/msg/_Airspeed.py
+Already unlinked: {}
+Unlinking: /home/martin/first_ws/devel/lib/python2.7/dist-packages/rosflight_msgs/msg/_RCRaw.py
+Already unlinked: {}
+Unlinking: /home/martin/first_ws/devel/lib/python2.7/dist-packages/rosflight_msgs/msg/_AuxCommand.py
+Already unlinked: {}
+Unlinking: /home/martin/first_ws/devel/lib/python2.7/dist-packages/rosflight_msgs/msg/__init__.py
+Already unlinked: {}
+Unlinking: /home/martin/first_ws/devel/lib/python2.7/dist-packages/rosflight_msgs/msg/_GNSSFull.py
+Already unlinked: {}
+Unlinking: /home/martin/first_ws/devel/lib/python2.7/dist-packages/rosflight_msgs/msg/_GNSS.py
+Already unlinked: {}
+Unlinking: /home/martin/first_ws/devel/lib/python2.7/dist-packages/rosflight_msgs/msg/_Error.py
+Already unlinked: {}
+Unlinking: /home/martin/first_ws/devel/lib/python2.7/dist-packages/rosflight_msgs/msg/_Barometer.py
+Already unlinked: {}
+Unlinking: /home/martin/first_ws/devel/lib/python2.7/dist-packages/rosflight_msgs/msg/_Command.py
+Already unlinked: {}
+Unlinking: /home/martin/first_ws/devel/lib/python2.7/dist-packages/rosflight_msgs/msg/_BatteryStatus.py
+Already unlinked: {}
+Unlinking: /home/martin/first_ws/devel/lib/python2.7/dist-packages/rosflight_msgs/msg/_OutputRaw.py
+Already unlinked: {}

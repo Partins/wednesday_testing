@@ -1,0 +1,26 @@
+[35m[1mScanning dependencies of target _rosflight_extras_generate_messages_check_deps_FloatArray[0m
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target _rosflight_extras_generate_messages_check_deps_FloatArray
+[  0%] Built target _rosflight_extras_generate_messages_check_deps_arm_uav
+[  7%] [34m[1mGenerating Python from MSG rosflight_extras/FloatArray[0m
+[ 15%] [34m[1mGenerating Python code from SRV rosflight_extras/arm_uav[0m
+[ 23%] [34m[1mGenerating EusLisp code from rosflight_extras/FloatArray.msg[0m
+[ 30%] [34m[1mGenerating Javascript code from rosflight_extras/FloatArray.msg[0m
+[ 38%] [34m[1mGenerating Lisp code from rosflight_extras/arm_uav.srv[0m
+[ 46%] [34m[1mGenerating Lisp code from rosflight_extras/FloatArray.msg[0m
+[ 53%] [34m[1mGenerating Javascript code from rosflight_extras/arm_uav.srv[0m
+[ 69%] [34m[1mGenerating EusLisp code from rosflight_extras/arm_uav.srv[0m
+[ 69%] [34m[1mGenerating C++ code from rosflight_extras/FloatArray.msg[0m
+[ 76%] [34m[1mGenerating C++ code from rosflight_extras/arm_uav.srv[0m
+[ 76%] Built target rosflight_extras_generate_messages_nodejs
+[ 76%] Built target rosflight_extras_generate_messages_lisp
+[ 84%] Built target rosflight_extras_generate_messages_eus
+[ 92%] [34m[1mGenerating Python srv __init__.py for rosflight_extras[0m
+[100%] [34m[1mGenerating Python msg __init__.py for rosflight_extras[0m
+[100%] Built target rosflight_extras_generate_messages_cpp
+[100%] Built target rosflight_extras_generate_messages_py
+[100%] Built target rosflight_extras_generate_messages

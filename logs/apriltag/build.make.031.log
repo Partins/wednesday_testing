@@ -1,0 +1,4 @@
+[ 79%] Built target apriltag
+[ 89%] Built target apriltag_python
+[ 94%] Built target apriltag_demo
+[100%] Built target opencv_demo

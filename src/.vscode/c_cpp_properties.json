@@ -1,0 +1,23 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/martin/first_ws/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/martin/catkin_ws/src/apriltag_ros/apriltag_ros/include/**",
+        "/home/martin/catkin_ws/src/beginner_tutorials/include/**",
+        "/home/martin/first_ws/src/rosflight/rosflight/include/**",
+        "/home/martin/first_ws/src/rosflight/rosflight_firmware/include/**",
+        "/home/martin/first_ws/src/rosflight/rosflight_sim/include/**",
+        "/home/martin/first_ws/src/rosflight/rosflight_utils/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}

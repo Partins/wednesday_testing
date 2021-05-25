@@ -1,0 +1,5 @@
+baseline_pid
+/home/martin/first_ws/devel/.private/uav_control/cmake.lock /home/martin/first_ws/devel/./cmake.lock
+/home/martin/first_ws/devel/.private/uav_control/lib/pkgconfig/uav_control.pc /home/martin/first_ws/devel/lib/pkgconfig/uav_control.pc
+/home/martin/first_ws/devel/.private/uav_control/share/uav_control/cmake/uav_controlConfig.cmake /home/martin/first_ws/devel/share/uav_control/cmake/uav_controlConfig.cmake
+/home/martin/first_ws/devel/.private/uav_control/share/uav_control/cmake/uav_controlConfig-version.cmake /home/martin/first_ws/devel/share/uav_control/cmake/uav_controlConfig-version.cmake

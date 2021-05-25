@@ -1,0 +1,24 @@
+[35m[1mScanning dependencies of target rosflight_firmware[0m
+[ 16%] [32mBuilding CXX object CMakeFiles/rosflight_firmware.dir/firmware/src/controller.cpp.o[0m
+[ 16%] [32mBuilding CXX object CMakeFiles/rosflight_firmware.dir/firmware/src/rosflight.cpp.o[0m
+[ 16%] [32mBuilding CXX object CMakeFiles/rosflight_firmware.dir/firmware/src/rc.cpp.o[0m
+[ 22%] [32mBuilding CXX object CMakeFiles/rosflight_firmware.dir/firmware/src/nanoprintf.cpp.o[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/rosflight_firmware.dir/firmware/src/estimator.cpp.o[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/rosflight_firmware.dir/firmware/src/mixer.cpp.o[0m
+[ 38%] [32mBuilding CXX object CMakeFiles/rosflight_firmware.dir/firmware/src/param.cpp.o[0m
+[ 44%] [32mBuilding CXX object CMakeFiles/rosflight_firmware.dir/firmware/src/state_manager.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/rosflight_firmware.dir/firmware/src/command_manager.cpp.o[0m
+[ 55%] [32mBuilding CXX object CMakeFiles/rosflight_firmware.dir/firmware/src/sensors.cpp.o[0m
+[ 61%] [32mBuilding CXX object CMakeFiles/rosflight_firmware.dir/firmware/src/comm_manager.cpp.o[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/rosflight_firmware.dir/firmware/comms/mavlink/mavlink.cpp.o[0m
+[ 72%] [32mBuilding CXX object CMakeFiles/rosflight_firmware.dir/firmware/lib/turbomath/turbomath.cpp.o[0m
+[ 77%] [32m[1mLinking CXX shared library /home/martin/first_ws/devel/.private/rosflight_firmware/lib/librosflight_firmware.so[0m
+[ 77%] Built target rosflight_firmware
+[35m[1mScanning dependencies of target rosflight_udp_board[0m
+[35m[1mScanning dependencies of target rosflight_test[0m
+[ 83%] [32mBuilding CXX object CMakeFiles/rosflight_test.dir/firmware/test/test_board.cpp.o[0m
+[ 88%] [32mBuilding CXX object CMakeFiles/rosflight_udp_board.dir/src/udp_board.cpp.o[0m
+[ 94%] [32m[1mLinking CXX shared library /home/martin/first_ws/devel/.private/rosflight_firmware/lib/librosflight_test.so[0m
+[ 94%] Built target rosflight_test
+[100%] [32m[1mLinking CXX shared library /home/martin/first_ws/devel/.private/rosflight_firmware/lib/librosflight_udp_board.so[0m
+[100%] Built target rosflight_udp_board

@@ -1,0 +1,6 @@
+Symlinking /home/martin/first_ws/devel/lib/librosflight_utils.so
+Symlinking /home/martin/first_ws/devel/lib/pkgconfig/rosflight_utils.pc
+Symlinking /home/martin/first_ws/devel/lib/rosflight_utils/viz
+Symlinking /home/martin/first_ws/devel/lib/rosflight_utils/rosflight_postprocess
+Symlinking /home/martin/first_ws/devel/share/rosflight_utils/cmake/rosflight_utilsConfig-version.cmake
+Symlinking /home/martin/first_ws/devel/share/rosflight_utils/cmake/rosflight_utilsConfig.cmake

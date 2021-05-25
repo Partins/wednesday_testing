@@ -1,0 +1,6 @@
+Linked: (/home/martin/first_ws/devel/.private/rosflight/lib/libmavrosflight.so, /home/martin/first_ws/devel/lib/libmavrosflight.so)
+Linked: (/home/martin/first_ws/devel/.private/rosflight/lib/rosflight/rosflight_io, /home/martin/first_ws/devel/lib/rosflight/rosflight_io)
+Linked: (/home/martin/first_ws/devel/.private/rosflight/lib/rosflight/calibrate_mag, /home/martin/first_ws/devel/lib/rosflight/calibrate_mag)
+Linked: (/home/martin/first_ws/devel/.private/rosflight/lib/pkgconfig/rosflight.pc, /home/martin/first_ws/devel/lib/pkgconfig/rosflight.pc)
+Linked: (/home/martin/first_ws/devel/.private/rosflight/share/rosflight/cmake/rosflightConfig.cmake, /home/martin/first_ws/devel/share/rosflight/cmake/rosflightConfig.cmake)
+Linked: (/home/martin/first_ws/devel/.private/rosflight/share/rosflight/cmake/rosflightConfig-version.cmake, /home/martin/first_ws/devel/share/rosflight/cmake/rosflightConfig-version.cmake)

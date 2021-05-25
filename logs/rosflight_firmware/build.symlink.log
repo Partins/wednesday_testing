@@ -1,0 +1,7 @@
+Symlinking /home/martin/first_ws/devel/lib/librosflight_udp_board.so
+Symlinking /home/martin/first_ws/devel/lib/librosflight_test.so
+Symlinking /home/martin/first_ws/devel/lib/librosflight_firmware.so
+Symlinking /home/martin/first_ws/devel/lib/pkgconfig/rosflight_firmware.pc
+Symlinking /home/martin/first_ws/devel/share/rosflight_firmware/cmake/rosflight_firmwareConfig-version.cmake
+Symlinking /home/martin/first_ws/devel/share/rosflight_firmware/cmake/rosflight_firmwareConfig.cmake
+Symlinking /home/martin/first_ws/devel/share/rosflight_firmware/cmake/rosflight_firmware-extras.cmake
